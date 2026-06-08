@@ -114,14 +114,6 @@ Through this project, I gained experience with:
 * Interactive Visualization
 * Support for Custom Datasets
 
-## Author
 
-**Satheesh Rallapalle**
-
-Machine Learning and Data Science Enthusiast
-
-## License
-
-This project is licensed under the MIT License.
 
 
